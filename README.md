@@ -448,53 +448,7 @@ screenshots/
 ├── encode.png
 ├── decode.png
 └── history.png
-```
 
-Then display them in a clean grid:
-
-<table>
-<tr>
-<td width="50%">
-
-### Login
-
-<img src="screenshots/login.png" alt="Login Interface">
-
-</td>
-<td width="50%">
-
-### Dashboard
-
-<img src="screenshots/dashboard.png" alt="Dashboard Interface">
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### Encoding
-
-<img src="screenshots/encode.png" alt="Encoding Interface">
-
-</td>
-<td width="50%">
-
-### Decoding
-
-<img src="screenshots/decode.png" alt="Decoding Interface">
-
-</td>
-</tr>
-</table>
-
-### Operation History
-
-<p align="center">
-<img src="screenshots/history.png" alt="Operation History" width="80%">
-</p>
-
----
 
 # ◼ Testing Coverage
 
