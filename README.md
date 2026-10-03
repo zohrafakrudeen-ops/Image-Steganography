@@ -435,49 +435,6 @@ SecureImageSteganography/
 
 ---
 
-# ◼ Application Preview
-
-**Use only your actual application screenshots here.**
-
-Create a `screenshots/` folder in the repository:
-
-```text
-screenshots/
-├── login.png
-├── dashboard.png
-├── encode.png
-├── decode.png
-└── history.png
-
-
-# ◼ Testing Coverage
-
-The application was functionally tested across its major workflows.
-
-| Module         | Test Area                     |
-| :------------- | :---------------------------- |
-| Authentication | Registration and login        |
-| Validation     | Invalid / incomplete inputs   |
-| Session        | Current-user tracking         |
-| Encoding       | Message embedding             |
-| Decoding       | Message extraction            |
-| History        | Operation recording           |
-| User History   | User-specific filtering       |
-| Dashboard      | Operation statistics          |
-| Image Handling | Opening and saving images     |
-| Database       | JDBC connectivity and queries |
-
----
-
-# ◼ Limitations
-
-* Currently designed for **text-based information hiding**.
-* LSB data may be affected by subsequent image compression or processing.
-* Steganography itself does not provide cryptographic encryption.
-* Database credentials require local configuration.
-* The current implementation is a Java desktop application.
-
----
 
 # ◼ Future Scope
 
